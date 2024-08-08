@@ -1,0 +1,22 @@
+/* Inheritance Rule  */
+
+@import './#style2.css';
+
+body{
+    background-color: darkorange;
+}
+
+.maindiv{
+    background-color: fuchsia;
+}
+
+.maindiv .div-1{
+    background-color: purple;
+}
+body .maindiv .div-1{
+    background-color: burlywood;
+}
+
+#demo1{
+
+}
