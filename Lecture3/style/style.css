@@ -1,0 +1,61 @@
+/* Css Box Model */
+/* content-box , border-box */
+
+/* .content-box{
+    height: 200px;
+    width: 200px;
+    background-color: lightseagreen;
+    padding: 10px;
+    border: 10px solid blueviolet;
+}
+.border-box{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    padding: 20px;
+    border: 10px solid chocolate;
+} */
+
+/* Universal Selector */
+
+/* *{
+    box-sizing: border-box;
+} */
+
+/* Border Properties */
+
+/* Long Hand Props */
+/* ShortHand Props */
+
+.border-1{
+    /* height: 200px;
+    width: 200px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: coral;
+    border: 18px solid gold;
+    border-left: 11px solid olive; */
+    /* border-left-color: black;
+    border-left-style: solid; */
+    /* border-left-width: 10px; */
+    /* border: 10px solid teal;
+    border: 10px dotted teal;
+    border: 10px dashed teal;
+    border: 10px inset teal;
+    border: 10px outset teal;
+    border: 10px hidden teal;
+    border: 10px ridge teal;
+    border: 10px double teal;
+    border: none;
+    border: 10px groove purple;
+    outline: 8px dashed yellow;
+    outline-offset: 5px; */
+} 
+
+.outline{
+    height: 200px;
+    width: 200px;
+    outline: 5px solid goldenrod;
+    border: 5px solid blue;
+    outline-offset: 5px;
+}
